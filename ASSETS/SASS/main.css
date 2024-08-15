@@ -26,7 +26,7 @@
   color: #555;
 }
 .card--product__content button {
-  background-color: #3498db;
+  background-color: #4ddb34;
   color: #fff;
   padding: 0.5em 1em;
   border: none;
@@ -34,5 +34,5 @@
   transition: background-color 0.3s ease;
 }
 .card--product__content button:hover {
-  background-color: #2980b9;
+  background-color: #4ddb34;
 }/*# sourceMappingURL=main.css.map */
