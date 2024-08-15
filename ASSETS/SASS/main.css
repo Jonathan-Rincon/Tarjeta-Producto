@@ -35,4 +35,11 @@
 }
 .card--product__content button:hover {
   background-color: #4ddb34;
+}
+
+.btn-colores {
+  background-color: #4ddb34;
+}
+.btn-colores:hover {
+  background-color: #4ddb34;
 }/*# sourceMappingURL=main.css.map */
